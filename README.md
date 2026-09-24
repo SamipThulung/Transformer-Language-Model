@@ -4,7 +4,7 @@ Implementation of pre-norm Transformer-LM with Rope embeddings.
 ## Output
 
 <p align="center">
-  <img src="assets/output.png" width="800">
+  <img src="assets/output.png" width="700">
 </p>
 
 ## Dataset
